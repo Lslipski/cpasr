@@ -1,1 +1,55 @@
 # Social Physical Therapy
+
+Argument for physical therapists treating chronic pain to organize politically and consider social structures in treatment.
+
+Paper for The Journal of the APTA to introduce "Social Physical Therapy" (SPT) as a clinical perspective, a comparison to the Social Medicine movement, and a set of policy recommendations that SPT requires. Somehow using chronic pain as the focal example.
+
+Rudolf Virchow Quote:
+
+> "medicine is social science and politics nothing but medicine on a grand scale"
+
+
+
+(In no set order) Outline:
+
+1.  Understanding the determinants of chronic pain
+
+    1.  Allostatic load
+
+    2.  Allostatic capacity
+
+    3.  Endogenous vs. Exogenous sources of allostatic load
+
+    4.  Current Treatment vs. a SPT appraoch
+
+2.  What is SPT?
+
+3.  History of Social Medicine
+
+4.  Social Physical Therapy Requires Socialist Policies
+
+
+
+**Rando Notes:**
+
+-   Clinicians who treat patients with chronic pain like to emphasize the necessity of using a "biopsychosocial" approach. Most, however, seem to think the boundaries of this approach end at the level of interpersonal interactions, but most exogenous load is coming from the environment, as produced by social policy.
+
+-   Justin had 2 other PTs in mind who work in this type of space who we will want to look at this. Their names are...
+
+-   [Social Medicine wiki](https://en.wikipedia.org/wiki/Social_medicine#:~:text=The%20field%20of%20social%20medicine,lead%20to%20a%20healthier%20society.)
+
+-   Rudolf Virchow, "the father of modern pathology" and "the pope of medicine": [ajpha bio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1698150/) and [wiki](https://en.wikipedia.org/wiki/Rudolf_Virchow) and his famous [Report on the Typhus Epidemic in Upper Silesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1698167/).
+
+-   Paul Farmer is a name a lot of people are familiar -- but he was a doctor in Haiti. We were actual physical therapists in Haiti and have some data on pain we could use to support what we're saying here using Paul Farmer quotes. Probably a separate paper.
+
+-   Could also include a section basically like "why should people trust us?" Where we discuss Haiti work and prevalence of chronic pain we found there -- again could use our own data that we collected.
+
+
+
+What is Social Medicine:
+
+-   [What is Social Medicine?](https://monthlyreview.org/2005/01/01/what-is-social-medicine/) -- monthly review
+
+-   [What is Social Medicine?](https://www.med.unc.edu/socialmed/wp-content/uploads/sites/462/2018/01/Rosen_WhatIsSocialMedicine_BullHxMed47_crop.pdf) A genetic analysis of the concept (george rosen)
+
+-   [How did social medicine evolve, and where is it headed?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1621092/) -- PLoS med
