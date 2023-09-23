@@ -24,7 +24,76 @@ Faced with nearly 300,000 [deaths from prescription opioids](https://www.cdc.gov
 
 Amid a record-setting incidence of prescription opioid deaths in 2010, the Affordable Care Act provisioned the creation of [a new committee](https://www.iprcc.nih.gov/) to harmonize pain research efforts across federal agencies. To this end, the committee published an [analysis](https://www.iprcc.nih.gov/node/7/iprcc-federal-pain-research-portfolio-analysis-report?search-term=portfolio) detailing a \$430,000,000 annual budget for pain research. This money was distributed to over 1,200 research projects. Investigations of "neurobiological/glial mechanisms" and pain treatment received the lion's share with 35% of the budget. In comparison, pain prevention received a pitiful 1.4%.
 
+```{r, warning=FALSE, echo=FALSE, message=FALSE}
+#| label: tbl-iprcc-main
+#| tbl-cap: "Percentage of the Pain Research Portfolio by Category"
+#| tbl-cap-location: margin
+
+
+library(janitor)
+library(dplyr)
+library(gt)
+library(data.table)
+tbl <- read.csv("docs/IPRCC_funding_analysis_table.csv") |> 
+  janitor::clean_names()
+
+tbl |> 
+  gt() |> 
+  tab_header(
+    title = "Allocation of Pain Research Money",
+    subtitle = "Grouped by 29 IPRCC Pain Research Categories") |> 
+    tab_footnote(footnote = md("**I**nteragency **P**ain **R**esearch **C**oordinating **C**ommittee"),
+                 locations = cells_title(groups = "subtitle")) |> 
+  tab_source_note(
+     source_note = md("Source: [IPRCC Federal Pain Research Portfolio Analysis Report](https://www.iprcc.nih.gov/federal-pain-portfolio-analysis/iprcc-federal-pain-research-portfolio-analysis-report?search-term=portfolio)")) |> 
+  cols_label(tier_2_category = md("**Research Category**"),
+             percent_of_budget = md("**Percent of Budget**"))
+```
+
 Even more tragic, the focal point of the nominally preventive research was "pain prevention through various approaches including self-directed activity, diet, life style programs and education campaigns for many disorders." This up-by-your-bootstraps conceptualization of prevention despicably foists the burden on people who are relegated to the most pain-inducing environments. Those driving uber all morning and bussing tables all evening for low wages and no medical insurance are also expected to find time to meditate in order to relieve their chronic low back pain. A truly preventive approach would focus on creating analgesic societies for the working class to inhabit. And while we can't expect too much from "prevention's" 1.4% of the pain budget, we could hope that significant strides have been made in translating our well-funded understanding of the neurobiological and glial underpinnings of pain into successful treatment strategies.
+
+```{r, warning=FALSE, echo=FALSE, message=FALSE}
+#| label: tbl-iprcc-subgroup
+#| tbl-cap: "Funding of technologically-driven research to the neglect of prevetion"
+#| tbl-cap-location: margin
+
+
+tbl_neuro_treat <- tbl |> 
+  filter(tier_2_category %ilike% "treatment" |
+           tier_2_category %ilike% "Neurobiological/Glial") |> 
+  arrange(desc(percent_of_budget)) |> 
+  mutate(type = "Neurobiological Mechanisms and Treatment")
+
+tbl_prev <- tbl |> 
+  filter(tier_2_category %ilike% "Prevention") |> 
+  mutate(type = "Prevention")
+
+bind_rows(tbl_neuro_treat, tbl_prev) |> 
+  group_by(type) |> 
+  gt(rowname_col = "tier_2_category",
+     groupname_col = "type") |> 
+  tab_header(title = "Pain Mechanisms and Treatment vs. Prevention",
+             subtitle = "Funding Comparison") |> 
+  tab_style(
+    style = list(cell_fill(color = "steelblue1"),
+                 cell_text(weight = "bold")),
+    locations = cells_group()) |> 
+  summary_rows(
+    fns =  list(label = md("*Group Total*"),
+                id = "totals", 
+                fn = "sum"),
+    side = "bottom"
+  ) |> 
+  tab_style(
+    style = list(cell_fill(color = "tomato1"),
+                 cell_text(weight = "bold")),
+    locations = cells_summary(
+      columns = "percent_of_budget"
+    )) |> 
+  cols_label(percent_of_budget = md("**Percent of Budget**"))
+```
+
+
 
 No such luck. Most pain neuroscience involving human participants uses functional magnetic resonance imaging (fMRI) to measure activity in the brain while study participants lie in a small magnetic tube and perform simple tasks. This [type of research](https://pubmed.ncbi.nlm.nih.gov/27583567/) is still barely able to identify when a person is currently experiencing chronic pain, let alone reduce their pain in a meaningful way. It also primarily recruits young healthy college students and [fails to include participants from diverse income levels](https://doi.org/10.1016/j.neuron.2017.08.034), all but ensuring study findings will not generalize to the working class. In fact, some clinical [guidelines recommend against](https://www.sciencedirect.com/science/article/pii/S014067361830480X?via%3Dihub) using imaging in the clinical treatment of patients with chronic pain. The last 14 years of pain neuroscience have produced a lot of neat and high-tech studies but taught us very little about how to prevent or treat pain in the global proletariat. Unfortunately, this sort of fetishization of high technology is not new in the world of public health.
 
