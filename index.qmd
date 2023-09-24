@@ -1,1 +1,34 @@
 # Preface {.unnumbered}
+
+I got to know the Public Health 101 professor while working on a smoking prevention project with her in India. I had been pre-pre-med since the 6th grade, and in my sophomore year of undergrad I chose the University of Rochester's "Health, Behavior, and Society" major primarily because I thought it would look good on a medical school application. And I wasn't the only one with this idea. The major was teeming with neurotic and preening pre-meds all angling for a spot in the best medical schools so that they could better angle for a spot in the best residencies.
+
+"Notorious" is too strong a word, but it was known among the public health majors that [Dr. Chin](https://www.urmc.rochester.edu/people/20378400-nancy-chin) encouraged pre-medical students to think broadly about their career options beyond any hospital. As opportunist as we were, most of us also came with a commensurate dose of idealism. We wanted to *change the world*. With some of this in mind, we were sipping our chais and looking out at the foothills of the Himalayas when she finally dropped the question on me.
+
+> ##### I don't get it. Why do all these smart, motivated young people who want to change the world go into *medicine*? 
+>
+> ##### - Nancy Chin {.quote-attribution}
+
+I responded with some amalgamation of all the platitudes frequently used to inculcate young people into a paradigm of health and health-morality that spotlights doctors as heroes. What she was really asking was, "What makes people healthy? Do you *really* think it's *medicine*?"
+
+And then we moved on. Because Dr. Chin isn't in the business of telling students what to do. Apparently, her MO is patiently asking students perspicacious questions at indelible moments that will haunt them throughout an adulthood full of mistakes and corrections. The following essays are an attempt to synthesize my learnings from years down a rabbit hole of trying to address the chronic pain pandemic through a treatment-centered approach. They serve as a course correction to the intoxicating conceit that an ever deeper, more scientific, more data-driven understanding of chronic pain could singlehandedly solve the suffering seen around the world today. But it was this high-technologic worldview that *was* in the business of telling students what to do.
+
+I was accepted into Rochester's Take 5 Program and given a tuition-free fifth year to take classes in a field I hadn't had time to study while completing my public health degree. I titled my application essay `Befriending Big Data and Nurturing the Human-Computer Relationship`, and I proposed taking a set of Math, Computer Science, and Brain & Cognitive Science courses. It was during my introduction to java programming course that I was formally introduced to the gospel of technology. 
+
+> ##### If you want to change the world, learn how to code.
+>
+>#####  - Ted Pawlicki {.quote-attribution}
+
+Pointing out the obvious impressions apps like Facebook and Twitter had made on the world, [Professor Pawlicki](https://www.washingtonpost.com/news/grade-point/wp/2016/11/15/professor-offered-to-send-trump-protesters-to-canada-if-they-promise-never-to-come-back/) was arguing that computer programmers were the people making decisions that actually affect people day-to-day. Through the power of the internet, everyone can be affected by the code written on *your laptop*. Hot off a degree in public health, I interpreted this in some vague way to mean I could create tech that made people healthy. In fact, one of my Take 5 advisors was Henry Kautz, whose research had recently made headlines like [Your Tweets Can Predict When You’ll Get the Flu](https://www.smithsonianmag.com/science-nature/your-tweets-can-predict-when-youll-get-the-flu-180947646/). The obligatory comparison to [John Snow](https://en.wikipedia.org/wiki/John_Snow) was plenty to make me envisage my code as part of the impending Big Data revolution in epidemiology and health. This program equipped me with the holy trinity of the high-tech-health worldview:
+
+1. A nebulous notion of how `more_technology == better`
+2. The suggestion that anyone (including me!) could be the hero who writes the code that saves the lives
+3. Some tangible skills for becoming the hero
+
+With some java and python skills under my belt I went on to complete my MPH at the University of California Davis, spending most of my time
+
+
+
+
+> Every budget is a *moral* document.
+
+-   Ted Brown
