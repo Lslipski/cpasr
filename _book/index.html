@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Luke Slipski">
-<meta name="dcterms.date" content="2023-09-25">
+<meta name="dcterms.date" content="2023-09-27">
 
 <title>Chronic Pain and Social Reform</title>
 <style>
@@ -148,7 +148,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a></li>
+  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a>
+  <ul class="collapse">
+  <li><a href="#technology" id="toc-technology" class="nav-link" data-scroll-target="#technology">Technology</a></li>
+  <li><a href="#social-reform" id="toc-social-reform" class="nav-link" data-scroll-target="#social-reform">Social Reform</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -174,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 25, 2023</p>
+      <p class="date">September 27, 2023</p>
     </div>
   </div>
   
@@ -189,12 +193,14 @@ ul.task-list li input[type="checkbox"] {
 <p>I got to know the Public Health 101 professor while working on a smoking prevention project with her in India. I had been pre-pre-med since the 6th grade, and in my sophomore year of undergrad I chose the University of Rochester’s “Health, Behavior, and Society” major primarily because I thought it would look good on a medical school application. And I wasn’t the only one with this idea. The major was teeming with neurotic and preening pre-meds all angling for a spot in the best medical schools so that they could better angle for a spot in the best residencies.</p>
 <p>“Notorious” is too strong a word, but it was known among the public health majors that <a href="https://www.urmc.rochester.edu/people/20378400-nancy-chin">Dr.&nbsp;Chin</a> encouraged pre-medical students to think broadly about their career options beyond any hospital. As opportunist as we were, most of us also came with a commensurate dose of idealism. We wanted to <em>change the world</em>. With some of this in mind, we were sipping our chais and looking out at the foothills of the Himalayas when she finally dropped the question on me.</p>
 <blockquote class="blockquote">
-<h5 id="i-dont-get-it.-why-do-all-these-smart-motivated-young-people-who-want-to-change-the-world-go-into-medicine" class="anchored" data-anchor-id="preface">I don’t get it. Why do all these smart, motivated young people who want to change the world go into <em>medicine</em>?</h5>
+<h5 id="i-dont-get-it.-why-do-all-these-smart-motivated-young-people-who-want-to-change-the-world-go-into-medicine" class="anchored">I don’t get it. Why do all these smart, motivated young people who want to change the world go into <em>medicine</em>?</h5>
 <h5 id="nancy-chin" class="quote-attribution anchored">- Nancy Chin</h5>
 </blockquote>
 <p>I responded with some amalgamation of all the platitudes frequently used to inculcate young people into a paradigm of health and health-morality that spotlights doctors as heroes. What she was really asking was, “What makes people healthy? Do you <em>really</em> think it’s <em>medicine</em>?”</p>
-<p>And then we moved on. Because Dr.&nbsp;Chin isn’t in the business of telling students what to do. Apparently, her MO is patiently asking students perspicacious questions at indelible moments that will haunt them throughout an adulthood full of mistakes and corrections. The following essays are an attempt to synthesize my learnings from years down a rabbit hole of trying to address the chronic pain pandemic through a treatment-centered approach. They serve as a course correction to the intoxicating conceit that an ever deeper, more scientific, more data-driven understanding of chronic pain could singlehandedly solve the suffering seen around the world today. But it was this high-technologic worldview that <em>was</em> in the business of telling students what to do.</p>
-<p>I was accepted into Rochester’s Take 5 Program and given a tuition-free fifth year to take classes in a field I hadn’t had time to study while completing my public health degree. I titled my application essay <code>Befriending Big Data and Nurturing the Human-Computer Relationship</code>, and I proposed taking a set of Math, Computer Science, and Brain &amp; Cognitive Science courses. It was during my introduction to java programming course that I was formally introduced to the gospel of technology.</p>
+<p>And then we moved on. Because Dr.&nbsp;Chin isn’t in the business of telling students what to do. Apparently, her MO is patiently asking students perspicacious questions at indelible moments that will haunt them throughout an adulthood full of mistakes and corrections. The following essays are an attempt to synthesize my learnings from years down a rabbit hole of trying to address the chronic pain pandemic through a technocratic, treatment-centered approach. They serve as a course correction to the intoxicating conceit that an ever deeper, more scientific, more data-driven understanding of chronic pain could singlehandedly solve the suffering seen around the world today. Unlike Dr.&nbsp;Chin, professors espousing this high-technologic worldview <em>are</em> in the business of telling students what to do. And I was eager to take orders.</p>
+<section id="technology" class="level2">
+<h2 class="anchored" data-anchor-id="technology">Technology</h2>
+<p>I was accepted into Rochester’s Take 5 Program and granted a tuition-free fifth year to take classes in a field I hadn’t had time to study while completing my public health degree. I titled my application essay <code>Befriending Big Data and Nurturing the Human-Computer Relationship</code> and proposed taking a set of Math, Computer Science, and Brain &amp; Cognitive Science courses. It was during my introduction to java programming course that I was formally introduced to the gospel of technology.</p>
 <blockquote class="blockquote">
 <h5 id="if-you-want-to-change-the-world-learn-how-to-code." class="anchored">If you want to change the world, learn how to code.</h5>
 <h5 id="ted-pawlicki" class="quote-attribution anchored">- Ted Pawlicki</h5>
@@ -206,20 +212,31 @@ ul.task-list li input[type="checkbox"] {
 <li>Some tangible coding skills to immediately start becoming the hero</li>
 </ol>
 <p>With some java and python skills under my belt I went on to complete my MPH at the University of California Davis, spending most of my study time learning to connect public health databases with analytic programming languages. This paid off when I was accepted to the first cohort of Kaiser Permanente’s “Programmer/Analyst Training Program.” At Kaiser I learned SAS programming, some statistics, and how to carry out a digital cohort study – something I still do for a living today. My next job was at an electronic medical records (EMR) company called Practice Fusion. This was my proper introduction to a true societal scourge: the health tech sector.</p>
-<p><a href="https://www.justice.gov/opa/pr/electronic-health-records-vendor-pay-145-million-resolve-criminal-and-civil-investigations-0">Practice Fusion</a> brought me a huge salary, catered lunches, beer and wine on tap, and huge parties. And we were working on a product that helped patients! Right? RIGHT?! I learned a lot of programming there. And our mission was ostensibly to build a free EMR to help bring small doctors’ offices into the 21st century. We were going to combine these medical records and do important epidemiology, which would, in turn, even further benefit patients!</p>
-<p>It is exactly this sort of hard-to-argue-with symbolism of technology as progress that I hope to untangle in this writing. Because who doesn’t want to appropriate the Algorithms to help cure disease? Who doesn’t want people to have “precision medicine,” where doctors utilize capital-B capital-D Big Data to help doctors make personalized medical decisions? It is hard for anyone who doesn’t spend all day rummaging around in this data to articulate why it might not be the best investment. Even those of us most entrenched in the industry’s dirty data details fall for the same abstract promises CEOs continue to sell to investors. Because remember, this technology is going to &nbsp;<em>Change</em>. &nbsp;<em>The</em>. &nbsp;<em>World</em>.</p>
-<p>But after a few years at Practice Fusion (and just before we found out they had been pushing opioids on patients for chump change), I got tired of working with the EMR data. I knew it was never going to tell us anything meaningful. I decided that I needed to venture further into the technical weeds if I was going to find quality enough data to…err…change the world(?). Or whatever Professor Pawlicki had sold me. It had sounded so cool when he said it.</p>
-<p>So I quit my life and moved to Boulder, Colorado with the prospect of working as a research assistant in a famous neuroscience lab. By famous of course I mean famous in within the small fMRI science community. Having watched an entire Youtube series on fancy statistical analytic methods using functional magnetic resonance imaging data, I was convinced that this was the field I needed to dig into if I were to solve chronic pain.</p>
+<p>Practice Fusion brought me a high salary, catered lunches, beer and wine on tap, and huge parties. And we were working on a product that helped patients! Right? RIGHT?! I learned a lot of programming there. And our mission was ostensibly to build a free EMR to help bring small doctors’ offices into the 21st century. We were going to combine their medical records and do important epidemiology, which would, in turn, even further benefit patients! Where is the harm in that?</p>
+<p>It is exactly this sort of hard-to-argue-with <em>symbolism</em>, of technology as progress, that I hope to untangle in this writing. Because who doesn’t want to appropriate the Algorithms to help cure disease? Who doesn’t want people to have “precision medicine,” where doctors utilize capital-B capital-D Big Data to help doctors make hyperpersonalized medical decisions? It is hard for anyone who doesn’t spend all day rummaging around in this data to articulate why it might not be the best investment. Even those of us most entrenched in the industry’s dirty technical details fall for the same abstract promises CEOs continue to sell to investors. Because remember, this technology is going to</p>
+<p>👏 <em>Change</em>.👏</p>
+<p>👏 <em>The</em>.👏</p>
+<p>👏 <em>World</em>.👏</p>
+<p>After a few years at Practice Fusion (and just before workers found out the company had been <a href="https://www.justice.gov/opa/pr/electronic-health-records-vendor-pay-145-million-resolve-criminal-and-civil-investigations-0">pushing opioids to patients for chump change</a>), I got tired of working with EMR data. I suspected it wasn’t telling us anything meaningful. I decided that I needed to venture further into the technical weeds if I was going to find quality enough data to…err…change the world(?). Or whatever Professor Pawlicki had sold me. It had sounded so cool when he said it.</p>
+<p>I left silicon valley and moved to Boulder, Colorado to work as a research assistant in a famous neuroscience lab. By famous of course I mean famous within the small fMRI science scene. Having watched an entire Youtube series on fancy statistical analytic methods using functional magnetic resonance imaging data, I was convinced that this was the field I needed to dig into if I were to solve chronic pain. The lab moved to Dartmouth the following year, and I was accepted as a PhD student there.</p>
+<p>At Dartmouth I spent a lot of time thinking about how to find specific patterns of brain activity called “biomarkers” that would tell us when a person is experiencing various types of pain. You see, this lab was already “famous” for creating this type of biomarker for acute thermal pain. If you burned someone’s arm inside of an fMRI scanner, this biomarker would light up. However, if you only warmed up someone’s arm or showed them a picture of their ex-lover while in the scanner, the biomarker wouldn’t light up as much. Pretty neat, right? Further, one of the main selling points is that these biomarkers are made using 🧙 <em>machine learning</em> 🧙 . And when I say “selling point”, I mean <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-19-013.html#_Section_II._Award_1">millions</a> and <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-031.html#_Section_II._Award_1">millions</a> and <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-032.html#_Section_II._Award_1">millions</a> and <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-034.html#toc-5">millions</a> and <a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-035.html#toc-5">millions</a> of NIH dollars are being funneled into the pain biomarkers <a href="https://commonfund.nih.gov/pain">project</a>.</p>
+<p>I remember taking long walks at Dartmouth and explaining this research to my friends on the phone. With varying degrees of tenderness, the conversation would always lead to the question “so like, let’s say you had all these biomarkers. Then what? Is the plan to put all pain patients one-by-one into an fMRI scanner for an hour just to arrive at a more ‘objective’ measure of the pain they already told you they have?” I knew, deep in my bones, that this was a legitimate question with no good answer. I usually said something like “as a neuroscientist, health care delivery isn’t my problem.”</p>
+<p>[To do]</p>
 <p>“If you want to change the world, learn how to code.” gives us no direction about how the world will be changed. Looking around, it seems a lot easier to change the world for the worse.</p>
 <p>The most important thing I learned (read: remembered) in my neuroscience PhD work was the centrality of organized labor in shaping health and wellbeing.</p>
+</section>
+<section id="social-reform" class="level2">
+<h2 class="anchored" data-anchor-id="social-reform">Social Reform</h2>
 <blockquote class="blockquote">
 <p>Every budget is a <em>moral</em> document.</p>
 </blockquote>
 <ul>
 <li>Ted Brown</li>
 </ul>
+<p>At the behest of General Ludd, Luke</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
