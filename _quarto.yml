@@ -9,8 +9,8 @@ book:
     - index.qmd
     - tech_and_chronic_pain.qmd
     - neuroscience_and_chronic_pain.qmd
+    - limits_of_tech.qmd
     - social_physical_therapy.qmd
-    - chronic_pain_haiti.qmd
     - references.qmd
   downloads: [pdf]
 bibliography: references.bib
