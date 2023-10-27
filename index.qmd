@@ -66,22 +66,20 @@ Toward the end of my Dartmouth sojourn I joined the [Upper Valley Democratic Soc
 
 ### Social Reform
 
-[Ted Brown](https://www.sas.rochester.edu/his/people/retired-faculty/brown_theodore/index.html) walked in, as was his custom, with a few pieces of paper covered in handwritten notes. The elbows of his worn, burgundy sweater were patched where he rested them on the podium as he began his lecture. Ninety minutes at a time, I was introduced to the social origins of health and illness. I hadn't realized how simultaneously incisive, scathing, hopeful, and compassionate a critical historical lens could be. I was forced to consider how Cuba, a small socialist country, could have better health outcomes than the United States while paying drastically less for medical care. I learned how the failed Global Malaria Eradication Program relied so heavily on biomedical technology and how the [Gates Foundation](https://doi.org/10.1016/S0140-6736(05)66479-3) continues to apply technological lipstick to new renditions of this humanitarian failure. It was in this course I first read ["The Condition of the Working Class in England"](https://www.marxists.org/archive/marx/works/1845/condition-working-class/), and where I first heard of a person named Marx. 
+[Ted Brown](https://www.sas.rochester.edu/his/people/retired-faculty/brown_theodore/index.html) walked in, as was his custom, with a few pieces of paper covered in handwritten notes. The elbows of his worn, burgundy sweater were patched where he rested them on the podium as he began his lecture. Ninety minutes at a time, I was introduced to the social origins of health and illness. I hadn't known how simultaneously incisive, scathing, hopeful, and compassionate a critical historical lens could be. I was forced to consider how Cuba, a small socialist country, could have equal or better health outcomes than the United States while paying drastically less for medical care. I learned how the failed Global Malaria Eradication Program relied so heavily on biomedical technology and how the [Gates Foundation](https://doi.org/10.1016/S0140-6736(05)66479-3) continues to apply technological lipstick to new renditions of this humanitarian failure. It was in this course I first read ["The Condition of the Working Class in England"](https://www.marxists.org/archive/marx/works/1845/condition-working-class/), and where I first heard of a person named Marx.
 
-I got hooked on this type of analysis and took the rest of Ted's courses, one of which was an Introduction to the U.S. health care system. It was in this course that I picked up this mantra of his, which I still think about constantly.
+These lessons are the type that once you see them, you can never un-see them. Health, medicine, and social reform, from a socialist perspective, go a long way in explaining how the world works for most people on planet earth. I was hooked on this type of analysis and took the rest of Ted's courses. One of which was an Introduction to the U.S. health care system. It was in this course that I picked up this mantra of his, which I've had stuck in my head over the last few years:
 
 > ##### Every budget is a *moral* document.
 >
 > ##### - Ted Brown {.quote-attribution}
 
-What we, as a society, decide to pay for is a representation of what we value. When we 
+What any group or society decides to pay for is a representation of what they value. I found myself thinking of this every time a lowly research assistant at Dartmouth was stuck running \$500/hour fMRI scans late into the evening after a full work day, fearful of punishment for any mistakes, having been told explicitly they would collect no overtime pay. All so we could...mmm...look for brain patterns that would...ermmm...help us predict when people who tell us they're in pain are...in pain. [I am aware that people in the field will be more or less outraged with this description of the pain biomarker endeavor and clamor to explain the nuances of what they do. I also think this issue is a fractal, and every level of nuance deeper reveals equal impotence of the "technology", even if it successfully confuses funding agencies.]{.aside} On a larger scale, I will argue in the following essays that what the United States spends its pain research money on is a similar moral disaster.
 
+The government continues to budget for the *symbolism* of high-tech magic bullets that will never materialize. At the same time, private equity firms pour billions into the creation of health tech start ups that are not designed to, and will never, improve the lives of ordinary people. And when the banks funding these useless companies fail, the government makes room in the budget to rescue them [while stiffing low-income communities](https://www.levernews.com/regulators-stiffed-low-income-communities-in-silicon-valley-bank-bailout/). All this, while pain prevention researchers receive a pittance and social safety nets for poor people who are most at risk for pain fray and decay. Our budgets reflect our legislators moral values, and those moral values are scandalous and repugnant.
 
-canadian pain society webinar.
-
-From Nancy-Scheper Hughes notes in video, I hope to give the study of pain the vocabulary to make visible what is invisible and to focus on confronting everyday, bureaucratic, institutional violence.
+It was on the heels of a year of massive layoffs that I attended a webinar by the Canadian Pain Society titled, *"National Pain Rounds: Are We Treating Chronic Pain All Wrong?"* .
 
 At the behest of Captain Ludd,
 
 Luke
-
