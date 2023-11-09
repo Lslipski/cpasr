@@ -11,7 +11,8 @@ book:
     - neuroscience_and_chronic_pain.qmd
     - references.qmd
   downloads: [pdf]
-bibliography: references.bib
+bibliography: references.bibtex
+csl: diabetologia.csl
 
 format:
   html:
