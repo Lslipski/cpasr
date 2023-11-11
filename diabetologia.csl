@@ -130,6 +130,7 @@
           <group prefix=". " delimiter=", ">
             <text variable="publisher"/>
             <text variable="publisher-place"/>
+            <text prefix="ISBN: " variable="isbn"/>
           </group>
         </else-if>
         <else-if type="webpage post-weblog" match="any">
