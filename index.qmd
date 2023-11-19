@@ -2,7 +2,9 @@
 
 This series of essays is about chronic pain and the methods we employ to address it. I believe the best tools for preventing and treating pain pathologies already exist. However these tools, which I collectively refer to as "social reform", are not easy or straightforward to wield. Social reform's targets are not always precisely defined. And most importantly, social reform works in opposition to the billionaire class, their profits, and the conditions they insist on for workers around the world.
 
-Chronic pain is a pathology of society. Biologists will argue that it is a pathology of sodium channel abnormalities. Clinicians will argue that it is a pathology of aberrant physiology. Psychologists and neuroscientists will argue that it is a pathology of complex changes of information processing in the central nervous system. But these scientific conceptions are all myopic half-truths. Treating a person's chronic pain, only to release them back into a pain-producing, nocigenic environment, is stopgap medicine. It is temporary relief that does nothing to address the cause of pain at the origin. To treat the cause instead of the symptom will require social reform. But again, social reform is arduous, political, and defies the powerful elite.
+Biologists will argue that pain is a pathology of sodium channel abnormalities. Most clinicians will argue that it is a pathology of aberrant neuromuscular or musculoskeletal physiology. Neuroscientists will argue that it is a pathology of complex changes of information processing in the central nervous system. But these scientific conceptions are all myopic half-truths. 
+
+Chronic pain is a pathology of society. The simple epidemiological finding that ought to stop pain researchers in their tracks is chronic pain is is more common among the poor [-@cdc-pain-prev; -@pain-prev-us]. This grounding of pain in the social order is something an individual-level approach to pain can never address. Treating a person's chronic pain, only to release them back into a pain-producing, nocigenic environment, is stopgap medicine. It is temporary relief that does nothing to address the cause of pain at the origin. To treat the cause instead of the symptom will require social reform. But again, social reform is arduous, political, and defies the powerful elite.
 
 Instead, we have turned to the will-o'-the-wisp of technological solutions. Leading ourselves on, we chase the conceit of a high-tech quick fix that is far more nebulous than the goals of social reform. Such a hope is incoherent in light of the societal causes of chronic pain, but its glow through the fog keeps us wandering down a fruitless path. On our way, we first turned to the high-technology of Big Pharma, which brought us the decades-long opioid epidemic [-@cdc_opioid_epidemic]. In the wake of this spectacular failure have come various treatment strategies rooted primarily in digital technology. These efforts are doomed to fail as well. Technological innovation for the treatment of chronic pain will only be successful insofar as it amplifies and interfaces with broad social reform efforts. It is this difficult truth that I explore in the following essays.
 
@@ -85,6 +87,8 @@ It is this question, and questions about how we might effectively work towards a
 At the behest of Captain Ludd,
 
 **Luke**
+
+
 
 References
 
