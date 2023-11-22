@@ -2,7 +2,7 @@
 
 This series of essays is about chronic pain and the methods we employ to address it. I believe the best tools for preventing and treating pain pathologies already exist. However these tools, which I collectively refer to as "social reform", are not easy or straightforward to wield. Social reform's targets are not always precisely defined. And most importantly, social reform works in opposition to the billionaire class, their profits, and the conditions they insist on for workers around the world.
 
-Biologists will argue that pain is a pathology of sodium channel abnormalities. Most clinicians will argue that it is a pathology of aberrant neuromuscular or musculoskeletal physiology. Neuroscientists will argue that it is a pathology of complex changes of information processing in the central nervous system. But these scientific conceptions are all myopic half-truths. 
+Biologists will argue that pain is a pathology of sodium channel abnormalities. Most clinicians will argue that it is a pathology of aberrant neuromuscular or musculoskeletal physiology. Neuroscientists will argue that it is a pathology of complex changes of information processing in the central nervous system. But these scientific conceptions are all myopic half-truths.
 
 Chronic pain is a pathology of society. The simple epidemiological finding that ought to stop pain researchers in their tracks is chronic pain is is more common among the poor [-@cdc-pain-prev; -@pain-prev-us]. This grounding of pain in the social order is something an individual-level approach to pain can never address. Treating a person's chronic pain, only to release them back into a pain-producing, nocigenic environment, is stopgap medicine. It is temporary relief that does nothing to address the cause of pain at the origin. To treat the cause instead of the symptom will require social reform. But again, social reform is arduous, political, and defies the powerful elite.
 
@@ -88,9 +88,5 @@ At the behest of Captain Ludd,
 
 **Luke**
 
+### References
 
-
-References
-
-::: {#refs}
-:::

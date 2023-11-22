@@ -9,7 +9,6 @@ book:
     - index.qmd
     - tech_and_chronic_pain.qmd
     - neuroscience_and_chronic_pain.qmd
-    - references.qmd
   downloads: [pdf]
 bibliography: references.bibtex
 csl: diabetologia.csl
