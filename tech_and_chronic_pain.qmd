@@ -105,7 +105,7 @@ Reverberations of this new technologic symbolism, and promise of "scientific pub
 
 At first blush, chronic pain might seem like an entirely new category of pathology. ~~It is a subjective experience arising from complex information processing in the central nervous system.~~ Scientists can't point to something like a parasite or a tumor cell as its origin. Therefore one approach to managing pain is to spend exorbitant resources trying to pin down an objective measure, or "biomarker", of its neurological provenance. Having dragged subjectivity into the objective realm, scientific public health could then deploy its usual methods. In this case that would include developing technology that specifically targets the pain biomarker and beating pain with experience. The only snag is that the history of public health demonstrates that addressing even more "simple" diseases solely through the development of high-technology rarely leads to lasting prevention or cure.
 
-### Acute Malaria and Technology
+### Acute Malaria and Technology  {#sec-malaria}
 
 Most people today understand Malaria to be an acute, infectious disease caused by mosquitoes. These mosquitoes, living near the equator and carrying one of the malaria parasites, bite and infect people. UNICEF [reports](https://data.unicef.org/topic/child-health/malaria/#:~:text=Nearly%20every%20minute%2C%20a%20child%20under%20five%20dies%20of%20malaria,under%205%20years%20of%20age.) that malaria infections kill a child under 5 years of age every minute. To save these kids and many adults, we need to directly kill either the mosquitoes or the parasites, right?
 
@@ -118,4 +118,3 @@ Prior to the fanfare surrounding parasites and mosquitoes, a large body of evide
 Text
 
 ## References
-
