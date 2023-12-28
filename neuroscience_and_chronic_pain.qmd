@@ -1,4 +1,4 @@
-# Neuroscience and Chronic Pain
+# Neuroscience and Chronic Pain {#sec-neurochapter}
 
 Ironically, at the acme of modern cognitive neuroscientific theory lies a refutation of the neurobiological approach to the pain pandemic. [One](https://doi.org/10.1007/s13164-022-00666-6) of the most recent and promising [frameworks](https://doi.org/10.1038/s41583-022-00587-4) for understanding what the brain does is called "predictive coding". Put simply, the PC framework asserts that our qualitative experiences arise when our brains create hypotheses about the state of the world around us and then test those predictions. But when scrutinized, even this technical neuroscientific approach to pain control seems to support socialist preventive strategies over expensive neuroscientific treatment.
 
