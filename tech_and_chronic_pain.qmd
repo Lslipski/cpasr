@@ -52,7 +52,7 @@ Even more tragic, the focal point of the nominally preventive research was "pain
 
 ```{r, warning=FALSE, echo=FALSE, message=FALSE}
 #| label: tbl-iprcc-subgroup
-#| tbl-cap: "Funding of technologically-driven research to the neglect of prevetion"
+#| tbl-cap: "Funding of technologically-driven research to the neglect of prevention"
 #| tbl-cap-location: margin
 tbl_neuro_treat <- tbl |> 
   filter(tier_2_category %ilike% "treatment" |
@@ -123,6 +123,42 @@ to learn about the complex structures underlying memory"
 Two decades beyond The Decade of the Brain, and the technological revolution has not done much
 for mental health. "Major mental illnesses" like anxiety and depression have been on an upward
 trend since the end of the Decade of the Brain. 
+
+![](docs/depression_prevalence_2015_2020_screenshot.png){width=500}
+
+```{r, warning=FALSE, echo=FALSE, message=FALSE}
+#| label: fig-anxiety-trends
+#| fig-cap: "Anxiety Prevalence 2008-2018 by Income"
+#| fig-cap-location: margin
+library(ggplot2)
+df_anx <- read.csv("docs/anxiety_trends_2008_2018.csv") |> 
+  as_tibble() %>%
+  filter(grepl('percent', .$income_level)) |> 
+  mutate(year = as.factor(year),
+         income_level = case_when(income_level == 'weighted_percent_lt_20k' ~ '< $20,000',
+                                  income_level == 'weighted_percent_20k_50k' ~ '$20,000 to $49,999',
+                                  income_level == 'weighted_percent_gt_50k' ~ '>=$50,000'),
+         income_level = ordered(income_level,
+                                levels = c('< $20,000', '$20,000 to $49,999', '>=$50,000')))
+
+plt_anxiety_prev <- ggplot(df_anx, 
+                           aes(x=year, 
+                               y=value,
+                               group = income_level,
+                               color = income_level)) +
+  geom_line() +
+  xlab("Year") +
+  ylab("Percent of US Adults with Anxiety") +
+  ggtitle("Anxiety Prevalence 2008-2018") +
+  scale_color_manual(values = c("#FC4E07", "#E7B800", "#52854C")) +
+  guides(color = guide_legend(title = "Total Annual Family Income")) +
+  theme_light() 
+  
+
+plt_anxiety_prev
+```
+
+![](docs/pain_prevalence_2002_2018.png){width=1000}
 
 In prevalences, don't forget to include rate of untreated depression from that paper.
 
