@@ -18,7 +18,7 @@ George Engel actually specified a more expansive meaning of "biopsychosocial" 46
 
 This interpretation of "biopsychosocial" would subsume social policies and structures in its attempt to understand the origins of chronic pain pathology. So what is the impact on pain of a lack of social housing, quality food, basic income, and medical insurance? What effect would wealth and land redistribution programs have on the huge prevalence of chronic pain around the world? The truth is that we don't know. And we're not looking.
 
-## Policy Framing and Victim Blaming
+## Policy Framing and Victim Blaming {#sec-policy-framing-victim-blaming}
 
 Faced with over 260,000 deaths from prescription opioids [@cdc-opioid-overview] in the last 20 years, the US has spent a significant amount of money trying to better understand and treat pain. But research initiatives to find opioid replacements remain focused on the technocratic treatment of individuals while failing to embrace a population-focused biopsychosocial perspective. The research agenda takes our current form of uncaring capitalism as an immutable starting point and tries to invent its way to a better place. Without so much as considering possible societal origins of pain, the US continues to prioritize the discovery of complex biotech solutions to treat pain after it arises, one person at a time.
 
@@ -121,9 +121,9 @@ and disabilities, to study complex neuropeptides and behavior as well as to begi
 to learn about the complex structures underlying memory"
 
 Two decades beyond The Decade of the Brain, and the technological revolution has not done much
-to move the needle on mental health. "Major mental illnesses" like anxiety, depression, and chronic pain 
+to move the needle on mental health. "Major mental illnesses" like anxiety and depression
 continue on an upward trajectory. This trend is not the same for all groups of people. Behold how consistently 
-those groups with low incomes live with higher rates of these disease.
+those groups with low incomes live with higher rates of these diseases.
 
 ![](docs/depression_prevalence_2015_2020_screenshot.png){width=1000}
 
@@ -161,6 +161,7 @@ plt_anxiety_prev <- ggplot(df_anx,
 plt_anxiety_prev
 ```
 
+Even with the additional hundreds of millions of dollars devoted to pain-specific neuroscience (see @sec-policy-framing-victim-blaming),the trend is the same with chronic pain.
 ![](docs/pain_prevalence_2002_2018.png){width=1000}
 
 Note on how removing the brain from the patient from the society cannot account for this trend. In prevalences, don't forget to include rate of untreated depression from that paper.
