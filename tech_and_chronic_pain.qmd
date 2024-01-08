@@ -97,10 +97,11 @@ Public health practitioners in the first half of the nineteenth century weaponiz
 
 > "Public health practice required a diverse set of disciplines and skills: economics, sociology, psychology, politics, law, statistics and engineering, as well as the biological and clinical sciences. In the period immediately following the brilliant experimental work of Pasteur, Koch, and the German bacteriologists, however, the bacteriological laboratory became the primary symbol of a new, scientific public health." [@disease-and-discovery]
 
-Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped the treatment of acute and then chronic conditions for the next century and a half. The treatment of pain (and then treatment for the treatment of pain) spawned its own technological mascots. At the turn of the 21st century, opioids [We should not be deluded into thinking that ours is the first American opioid or prescription drug epidemic. Addiction to opioids and cocaine spiked primarily in white, native born Americans who had access to medical care in the wake of the civil war. Around the same time, a rise in opium smoking was tied to racial logic about the inferiority and danger of Chinese immigrant laborers. The discrepancy in how these two "addiction crises" were dealt with racialized addiction and laid the groundwork for a century's long habit of medicalizing white addiction while policing and incarcerating black and brown addiction. [@whiteout]]{.aside} and the brain scanner became the primary symbols of a new approach to pain management.
+Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped the treatment of acute and then chronic conditions for the next century and a half. 
 
-Congress resolved *House Join Resolution 174* in 1989 declaring "That the decade beginning January 1, 1990, hereby is designated the 'Decade of the Brain'." The first recital of this resolution correctly identifies the broad need to
-address illnesses associated with brains:
+The treatment of pain (and then treatment for the treatment of pain) spawned its own technological mascots. At the turn of the 21st century, opioids [We should not be deluded into thinking that ours is the first American opioid or prescription drug epidemic. Addiction to opioids and cocaine spiked primarily in white, native born Americans who had access to medical care in the wake of the civil war. Around the same time, a rise in opium smoking was tied to racial logic about the inferiority and danger of Chinese immigrant laborers. The discrepancy in how these two "addiction crises" were dealt with racialized addiction and laid the groundwork for a century's long habit of medicalizing white addiction while policing and incarcerating black and brown addiction. [@whiteout]]{.aside} and the brain scanner became the primary symbols of a new approach to pain management.
+
+Congress resolved *House Join Resolution 174* in 1989 declaring "That the decade beginning January 1, 1990, hereby is designated the 'Decade of the Brain'." The first recital of this resolution correctly identifies the broad need to address illnesses associated with the brain:
 
 > "Whereas it is estimated that fifty million Americans are affected
 each year by disorders and disabilities that involve the brain,
@@ -109,9 +110,8 @@ diseases; stroke; epilepsy; addictive disorders; injury resulting
 from prenatal events, environmental neurotoxins and trauma;
 and speech, language, hearing and other cognitive disorders"
 
-
-And then the fourth recital outlines the how the vague technocratic symbolism brain science
-will solve the problem:
+And then the fourth recital establishes a vague technocratic symbolism of brain science
+that will (hopefully) solve the above illnesses:
 
 > "Whereas a technological revolution occurring in the brain sciences, resulting 
 in such procedures as positron emission tomography and magnetic resonance imaging, 
@@ -121,8 +121,9 @@ and disabilities, to study complex neuropeptides and behavior as well as to begi
 to learn about the complex structures underlying memory"
 
 Two decades beyond The Decade of the Brain, and the technological revolution has not done much
-for mental health. "Major mental illnesses" like anxiety and depression have been on an upward
-trend since the end of the Decade of the Brain. 
+to move the needle on mental health. "Major mental illnesses" like anxiety, depression, and chronic pain 
+continue on an upward trajectory. This trend is not the same for all groups of people. Behold how consistently 
+those groups with low incomes live with higher rates of these disease.
 
 ![](docs/depression_prevalence_2015_2020_screenshot.png){width=500}
 
@@ -162,7 +163,7 @@ plt_anxiety_prev
 
 ![](docs/pain_prevalence_2002_2018.png){width=1000}
 
-In prevalences, don't forget to include rate of untreated depression from that paper.
+Note on how removing the brain from the patient from the society cannot account for this trend. In prevalences, don't forget to include rate of untreated depression from that paper.
 
 A truly revolutionary brain science would require explicit consideration of the racial 
 capitalism in which our brains work, live, and suffer. And if its ends extend beyond the simple 
