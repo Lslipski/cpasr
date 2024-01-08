@@ -125,7 +125,7 @@ to move the needle on mental health. "Major mental illnesses" like anxiety, depr
 continue on an upward trajectory. This trend is not the same for all groups of people. Behold how consistently 
 those groups with low incomes live with higher rates of these disease.
 
-![](docs/depression_prevalence_2015_2020_screenshot.png){width=500}
+![](docs/depression_prevalence_2015_2020_screenshot.png){width=1000}
 
 ```{r, warning=FALSE, echo=FALSE, message=FALSE}
 #| label: fig-anxiety-trends
