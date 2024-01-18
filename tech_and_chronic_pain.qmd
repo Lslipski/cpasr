@@ -93,11 +93,34 @@ No such luck. Most pain neuroscience involving human participants uses functiona
 
 ## Technology on the Horizon
 
-Public health practitioners in the first half of the nineteenth century weaponized broad social reform strategies to combat disease and promote health. Such work aimed to clean the environment, improve housing and working conditions, and provide water and sewage systems throughout society. But in the latter half of the 1800s, public health shifted its gaze with the advent of bacteriological research methods. The late doyenne of public health history and health leftism, Elizabeth Fee [@eliabeth-fee], wrote that
+Public health practitioners in the first half of the nineteenth century weaponized broad social reform strategies to combat disease and promote health. Such work aimed to clean the environment, improve housing and working conditions, and provide water and sewage systems throughout society. But in the latter half of the 1800s, public health shifted its gaze with the advent of bacteriological research methods. The late doyenne of public health history and health leftism, Elizabeth Fee [@elizabeth-fee], wrote that
 
 > "Public health practice required a diverse set of disciplines and skills: economics, sociology, psychology, politics, law, statistics and engineering, as well as the biological and clinical sciences. In the period immediately following the brilliant experimental work of Pasteur, Koch, and the German bacteriologists, however, the bacteriological laboratory became the primary symbol of a new, scientific public health." [@disease-and-discovery]
 
-Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped the treatment of acute and then chronic conditions for the next century and a half. 
+Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped approaches to treating and preventing acute and then chronic conditions for the next century and a half. During that time, the tools and technologies buttressing the promise of "scientific public health" have been caught up in the product life-cycle of racial capitalism. Health concerns are deracinated, cleansed of all sociopolitical context, and placed neatly in a biomedical framework where they are to be shot dead with expensive magic bullets. The irony should not be overlooked that the avant-garde of scientific public health has become obsessed with magic. 
+
+Today, the promise of technology often takes the form of a vague magic bullet to sell investors. Technobabble like "precision medicine", "biofeedback", "multi-modal real world data", and "AI enriched health models" fills board rooms across the country as slavering CEOs vie for angel funding. What's common to these promises is the hyperpersonalization of the products health tech wants to sell.
+https://www.cigionline.org/articles/technology-theatre/
+https://jacobin.com/2022/03/high-tech-pandemic-solutions-tracing-apps-profits
+https://jacobin.com/2023/12/big-tech-mental-health-data-collection-colonization
+
+Broken high tech health promises have been seen around the world addressing acute diseases
+like malaria, chronic diseases like cancer, and diseases like chronic pain that are somewhere 
+in between.
+
+
+### Acute Malaria and Technology {#sec-malaria}
+
+Most people today understand Malaria to be an acute, infectious disease caused by mosquitoes. These mosquitoes, living near the equator and carrying one of the malaria parasites, bite and infect people. UNICEF [reports](https://data.unicef.org/topic/child-health/malaria/#:~:text=Nearly%20every%20minute%2C%20a%20child%20under%20five%20dies%20of%20malaria,under%205%20years%20of%20age.) that malaria infections kill a child under 5 years of age every minute. To save these kids and many adults, we need to directly kill either the mosquitoes or the parasites, right?
+
+This is the logic that came to prevail around the turn of the twentieth century following the discovery of the malaria parasite. Malariologists began to describe the disease's epidemiology in increasingly narrow biological terms because for the first time they could see with their own eyes the immediate cause of malaria in a person's blood. New medical discoveries like these were made using the achromatic microscope, the latest and greatest microbiological technology of the time. These discoveries undoubtedly played important roles in curing patients and saving lives. But over time they served to close the aperture of the public health lens. What could not be seen under the new microscopes were the more proximal social structures ("[the causes of the causes](https://doi.org/10.1177%2F00333549141291S206)") sustaining malaria transmission in the tropics.
+
+Prior to the fanfare surrounding parasites and mosquitoes, a body of evidence had accumulated showing that malaria epidemiology is heavily influenced by agricultural practices. For example, a lack of decent housing often forces farm workers to sleep outside, exposing them to infected mosquito bites. Facing low wages, these same workers migrate elsewhere at the end of a harvest season in search of alternative income sources. When their new work lands them in an area with little or no malaria, a new epidemic can be triggered. Continuing to sleep in unprotected areas, workers are again bitten, this time by mosquitoes that are not yet infected with Malaria. The parasites in the workers' blood can now complete their reproductive cycle in the mosquitoes and go on to infect other people. Such epidemics are [not confined to tropical regions](https://www.cdc.gov/mmwr/preview/mmwrhtml/00001559.htm) and have flared up in places as far north as \[city\] Russia, \[city\] Italy, and the Chicago river basin.
+
+### Chronic Cancer and Technology
+
+
+Pain and Technology
 
 The treatment of pain (and then treatment for the treatment of pain) spawned its own technological mascots. At the turn of the 21st century, opioids [We should not be deluded into thinking that ours is the first American opioid or prescription drug epidemic. Addiction to opioids and cocaine spiked primarily in white, native born Americans who had access to medical care in the wake of the civil war. Around the same time, a rise in opium smoking was tied to racial logic about the inferiority and danger of Chinese immigrant laborers. The discrepancy in how these two "addiction crises" were dealt with racialized addiction and laid the groundwork for a century's long habit of medicalizing white addiction while policing and incarcerating black and brown addiction. [@whiteout]]{.aside} and the brain scanner became the primary symbols of a new approach to pain management.
 
@@ -177,16 +200,5 @@ The symbol of technology as a perpetually impending solution to disease is recap
 
 At first blush, chronic pain might seem like an entirely new category of pathology. Scientists can't point to something like a parasite or a tumor cell as its origin. Therefore one approach to managing pain is to spend exorbitant resources trying to pin down an objective measure, or "biomarker", of its neurological provenance. Having dragged subjectivity into the objective realm, scientific public health could then deploy its usual methods. In this case that would include developing technology that specifically targets the pain biomarker and beating pain with experience. The only snag is that the history of public health demonstrates that addressing even more diseases solely through the development of high-technology rarely leads to lasting prevention or cure.
 
-### Acute Malaria and Technology {#sec-malaria}
-
-Most people today understand Malaria to be an acute, infectious disease caused by mosquitoes. These mosquitoes, living near the equator and carrying one of the malaria parasites, bite and infect people. UNICEF [reports](https://data.unicef.org/topic/child-health/malaria/#:~:text=Nearly%20every%20minute%2C%20a%20child%20under%20five%20dies%20of%20malaria,under%205%20years%20of%20age.) that malaria infections kill a child under 5 years of age every minute. To save these kids and many adults, we need to directly kill either the mosquitoes or the parasites, right?
-
-This is the logic that came to prevail around the turn of the twentieth century following the discovery of the malaria parasite. Malariologists began to describe the disease's epidemiology in increasingly narrow biological terms because for the first time they could see with their own eyes the immediate cause of malaria in a person's blood. New medical discoveries like these were made using the achromatic microscope, the latest and greatest microbiological technology of the time. These discoveries undoubtedly played important roles in curing patients and saving lives. But over time they served to close the aperture of the public health lens. What could not be seen under the new microscopes were the more proximal social structures ("[the causes of the causes](https://doi.org/10.1177%2F00333549141291S206)") sustaining malaria transmission in the tropics.
-
-Prior to the fanfare surrounding parasites and mosquitoes, a body of evidence had accumulated showing that malaria epidemiology is heavily influenced by agricultural practices. For example, a lack of decent housing often forces farm workers to sleep outside, exposing them to infected mosquito bites. Facing low wages, these same workers migrate elsewhere at the end of a harvest season in search of alternative income sources. When their new work lands them in an area with little or no malaria, a new epidemic can be triggered. Continuing to sleep in unprotected areas, workers are again bitten, this time by mosquitoes that are not yet infected with Malaria. The parasites in the workers' blood can now complete their reproductive cycle in the mosquitoes and go on to infect other people. Such epidemics are [not confined to tropical regions](https://www.cdc.gov/mmwr/preview/mmwrhtml/00001559.htm) and have flared up in places as far north as \[city\] Russia, \[city\] Italy, and the Chicago river basin.
-
-### Chronic Cancer and Technology
-
-Text
 
 ## References
