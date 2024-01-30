@@ -97,9 +97,11 @@ Public health practitioners in the first half of the nineteenth century weaponiz
 
 > "Public health practice required a diverse set of disciplines and skills: economics, sociology, psychology, politics, law, statistics and engineering, as well as the biological and clinical sciences. In the period immediately following the brilliant experimental work of Pasteur, Koch, and the German bacteriologists, however, the bacteriological laboratory became the primary symbol of a new, scientific public health." [@disease-and-discovery]
 
-Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped approaches to treating and preventing acute and then chronic conditions for the next century and a half. During that time, the tools and technologies buttressing the promise of "scientific public health" have been embroiled in the product life-cycle of racial capitalism. Health concerns are deracinated, cleansed of all sociopolitical context, and placed neatly in a biomedical framework where they are to be shot dead with expensive magic bullets. The irony should not be overlooked that the avant-garde of scientific public health has become obsessed with magic. By and large, the products of this life cycle are useless apps 
+Reverberations of this new technologic symbolism, and its promise of a "scientific public health", shaped approaches to treating and preventing acute and then chronic conditions for the next century and a half. During that time, the tools and technologies buttressing the promise of scientific, or technologic, public health have been embroiled in the product life-cycle of racial capitalism. In this cycle, health concerns are deracinated, cleansed of all sociopolitical context, and placed neatly in a biomedical framework where they are to be shot dead with expensive magic bullets. [The irony should not be overlooked that the vanguard of scientific public health has become obsessed with magic.]{.aside} Given its roots in racial capitalism, we cannot expect technologic public health to be able to capital "S" Solve societal health issues caused by racial capitalism. Time and again is has failed to do so without 
 
-Today, the promise of technology often takes the form of a vague magic bullet to sell investors. Technobabble like "precision medicine", "biofeedback", "multi-modal real world data", and "AI enriched health models" fills board rooms across the country as slavering CEOs vie for angel funding. What's common to these promises is the hyperpersonalization of the products health tech wants to sell.
+
+
+Today, with rise of Big Tech and silicon valley, the promise of technology often takes the form of a vague magic bullet to sell investors. Technobabble like "precision medicine", "biofeedback", "multi-modal real world data", and "AI enriched health models" fills board rooms across the country as slavering CEOs vie for angel funding. What's common to these promises is the hyperpersonalization of the products health tech wants to sell.
 https://www.cigionline.org/articles/technology-theatre/
 https://jacobin.com/2022/03/high-tech-pandemic-solutions-tracing-apps-profits
 https://jacobin.com/2023/12/big-tech-mental-health-data-collection-colonization
@@ -119,6 +121,8 @@ Prior to the fanfare surrounding parasites and mosquitoes, a body of evidence ha
 
 ### Chronic Cancer and Technology
 
+### But What About Vaccinations?
+
 
 ### Pain and Technology
 
@@ -126,7 +130,7 @@ deracination of the brain and the whiteness of neuroscience, including MNI and I
 https://nist.mni.mcgill.ca/icbm-152lin/ "129 caucasion, 15 asian, 1 mixed decent [sic]"
 https://www.sciencedirect.com/science/article/pii/S0925492716301147 Population differences in brain morphology: Need for population specific brain template
 
-The treatment of pain (and then treatment for the treatment of pain) spawned its own technological mascots. At the turn of the 21st century, opioids [We should not be deluded into thinking that ours is the first American opioid or prescription drug epidemic. Addiction to opioids and cocaine spiked primarily in white, native born Americans who had access to medical care in the wake of the civil war. Around the same time, a rise in opium smoking was tied to racial logic about the inferiority and danger of Chinese immigrant laborers. The discrepancy in how these two "addiction crises" were dealt with racialized addiction and laid the groundwork for a century's long habit of medicalizing white addiction while policing and incarcerating black and brown addiction. [@whiteout]]{.aside} and the brain scanner became the primary symbols of a new approach to pain management.
+The treatment of pain (and then treatment for the treatment of pain) has spawned its own technological mascots. At the turn of the 21st century, opioids [We should not be deluded into thinking that ours is the first American opioid or prescription drug epidemic. Addiction to opioids and cocaine spiked primarily in white, native born Americans who had access to medical care in the wake of the civil war. Around the same time, a rise in opium smoking was tied to racial logic about the inferiority and danger of Chinese immigrant laborers. The discrepancy in how these two "addiction crises" were dealt with racialized addiction and laid the groundwork for a century's long habit of medicalizing white addiction while policing and incarcerating black and brown addiction. [@whiteout]]{.aside} and the brain scanner became the primary symbols of a new approach to pain management.
 
 Congress resolved *House Join Resolution 174* in 1989 declaring "That the decade beginning January 1, 1990, hereby is designated the 'Decade of the Brain'." The first recital of this resolution correctly identifies the broad need to address illnesses associated with the brain:
 
