@@ -13,5 +13,5 @@ format:
     theme: 
       light: [cosmo, styles.scss]
 
-editor: visual
+editor: visual 
 
