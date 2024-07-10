@@ -9,7 +9,6 @@ book:
     - index.qmd
     - tech_and_chronic_pain.qmd
     - neuroscience_and_chronic_pain.qmd
-  downloads: [pdf]
 bibliography: references.bibtex
 csl: diabetologia.csl
 
@@ -18,8 +17,5 @@ format:
     theme: 
       light: [cosmo, styles.scss]
       dark: [darkly, styles.scss]
-  pdf:
-    documentclass: scrreprt
-
-editor: visual
+    embed-resources: true
 
