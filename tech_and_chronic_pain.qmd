@@ -103,7 +103,13 @@ Today, with rise of Big Tech and silicon valley, the promise of technology often
 
 Broken high tech health promises have been seen around the world addressing acute diseases like malaria, chronic diseases like cancer, and diseases like chronic pain that are somewhere in between.
 
-It's worth noting that "scientific public health" gets its name from the perception of its rigorous use of the scientific methods and the use of extremely precise technology. But the accuracy of neuroscience, especially with fMRI is dubious (rotem paper) and the meta science in other fields shows that they are not faring well either (nature paper) and here: https://ascopubs.org/doi/full/10.1200/JCO.23.02399?bid=345348313&md5=e29a45b06dc110ac02a3f981b483377b&cid=DM16315
+It's worth noting that "scientific public health" gets its name from the perception of its rigorous use of the scientific methods and the use of extremely precise technology. But the accuracy of neuroscience, especially with fMRI is dubious (rotem paper) and the meta science in other fields shows that they are not faring well either (nature paper) and here: 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9636921/
+
+and 
+
+https://ascopubs.org/doi/full/10.1200/JCO.23.02399?bid=345348313&md5=e29a45b06dc110ac02a3f981b483377b&cid=DM16315
 
 ### Acute Malaria and Technology {#sec-malaria}
 
