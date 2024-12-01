@@ -91,7 +91,7 @@ bind_rows(tbl_neuro_treat, tbl_prev) |>
 
 No such luck. Most pain neuroscience involving human participants uses functional magnetic resonance imaging (fMRI) to measure activity in the brain while study participants lie in a small magnetic tube and perform simple tasks. This type of research is still barely able to identify when a person is currently experiencing chronic pain [@fibromyalgia-signature], let alone reduce their pain in a meaningful way. It also primarily recruits young healthy college students and fails to include participants from diverse income levels [@neuro-ses], all but ensuring study findings will not generalize to black and brown workers or poor white workers. As far as treatment goes, some clinical guidelines [@lbp-imaging-guidelines] now recommend against using certain types of imaging in the treatment of patients with chronic pain. The last 14 years of ACA-funded pain research have produced a lot of neat and high-tech studies but taught us very little about how to prevent or treat pain in the global proletariat. Unfortunately, this sort of fetishization of high technology is not new in the world of public health.
 
-## Technology Lives on the Horizon
+## Technology Lives Forever on the Horizon
 
 Public health practitioners in the first half of the nineteenth century weaponized broad social reform strategies to combat disease and promote health. Such work aimed to clean the environment, improve housing and working conditions, and provide water and sewage systems throughout society. But in the latter half of the 1800s, public health shifted its gaze with the advent of bacteriological research methods. The late doyenne of public health history and health leftism, Elizabeth Fee [@elizabeth-fee], wrote that
 
