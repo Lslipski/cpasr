@@ -8,7 +8,7 @@ book:
   chapters:
     - index.qmd
     - tech_and_chronic_pain.qmd
-    - neuroscience_and_chronic_pain.qmd
+    - neuroscience_holder.qmd
 bibliography: references.bibtex
 csl: diabetologia.csl
 
