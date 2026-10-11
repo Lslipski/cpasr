@@ -1,4 +1,4 @@
-# Neuroscience and Chronic Pain {#sec-neurochapter}
+# Neuroscience and the Embodiment of Chronic Pain {#sec-neurochapter}
 
 Among the most technocratic approaches to understanding pain is modern cognitive neuroscience. At its core, cognitive neuroscience attempts to delineate how biological and information processing, especially in the brain, ultimately lead to all of the things we think and feel (i.e. cognition).  
 
